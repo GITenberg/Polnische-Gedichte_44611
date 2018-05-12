@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36361
     wikipedia: http://de.wikipedia.org/wiki/Rudolf_Leonhard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44611#Polnische-Gedichte
 gutenberg_issued: '2014-01-07'
 gutenberg_type: Text
 identifiers:
