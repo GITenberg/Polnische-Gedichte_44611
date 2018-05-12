@@ -1,0 +1,28 @@
+_repo: Polnische-Gedichte_44611
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44611-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Leonhard, Rudolf
+    birthdate: 1889
+    deathdate: 1953
+    gutenberg_agent_id: '36361'
+    url: http://www.gutenberg.org/2009/agents/36361
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Leonhard
+description: ''
+gutenberg_issued: '2014-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44611'
+  lccn: '45042873'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Polish people -- Poetry'
+title: Polnische Gedichte
+url: http://www.gutenberg.org/ebooks/44611
